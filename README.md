@@ -1,5 +1,9 @@
 # MY Profile
 ## About Me
 - Nickname : Max
-- Major : comsci
-- Year : 1
+- Major : com sci
+- Year : 1 
+## My Learning Goals
+- graduate
+- Passed the exam compro
+- Goal accomplished
